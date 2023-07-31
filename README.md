@@ -8,7 +8,7 @@
   <h3 align="center">Forex Template</h3>
   
   <p align="center">
-    Welcome 👋
+    Hi There! 👋
   
  <details open="open">
   <summary>Table of Contents</summary>
