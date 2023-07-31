@@ -22,14 +22,14 @@
   </ol>
 </details>
   
- ## intro 
+ ## Intro 
   
 independent Front End Developer with +3 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient de-
 signing and building responsive website with modern Animation,
 
 Proficient with CSS and JS Frameworks.
       
- ## contact
+ ## Contact
   
   Email: anaseemamin@gmail.com <br>
   github: https://github.com/anaseem80
