@@ -5,10 +5,10 @@
     <img src="https://avatars.githubusercontent.com/u/111666236?v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"># HTML-and-CSS-Projects ReadMe</h3>
+  <h3 align="center">Forex Template</h3>
   
   <p align="center">
-    Here are some projects I have completed
+    Welcome 👋
   
  <details open="open">
   <summary>Table of Contents</summary>
